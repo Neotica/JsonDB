@@ -96,5 +96,40 @@
     "dateUploaded": 1257599376000,
     "url": "https://photos.app.goo.gl/1GZ7q9XnVgoMSjqs6",
     "videoId": "SO0dM03iVSM"
+  },
+  {
+    "title": "Android 2.3 Official Video",
+    "description": "Highlights from the latest Android platform release",
+    "dateUploaded": 1291295376000,
+    "url": "https://photos.app.goo.gl/W7QVe8HsbT5kB6Se6",
+    "videoId": "Jx3pdWBlZ34"
+  },
+  {
+    "title": "Androidology - Part 1 of 3 - Architecture Overview",
+    "description": "Part 1 of 3 in an overview series on the Android platform. In this segment, Mike gives an overview of the system architecture.",
+    "dateUploaded": 1194872976000,
+    "url": "https://photos.app.goo.gl/BQC3yo4bohjmfMCx8",
+    "videoId": "QBGfUs9mQYY"
+  },
+  {
+    "title": "Androidology - Part 2 of 3 - Application Lifecycle",
+    "description": "Part 2 of 3 in an overview series on the Android platform. In this segment, Mike explains the application and process lifecycle as a user navigates through different applications.",
+    "dateUploaded": 1194872976000,
+    "url": "https://photos.app.goo.gl/3tvWRZxfEYRJqCwE8",
+    "videoId": "fL6gSd4ugSI"
+  },
+  {
+    "title": "Androidology - Part 3 of 3 - APIs",
+    "description": "Part 3 of 3 in an overview series on the Android platform. In this segment, Mike gives an overview of a few of the APIs available on the platform.",
+    "dateUploaded": 1194872976000,
+    "url": "https://photos.app.goo.gl/RogC5idRTWELi4pd6",
+    "videoId": "MPukbH6D-lY"
+  },
+  {
+    "title": "Skypop on Android",
+    "description": "Bruce Leak and Timo Bruck from SkyPop demo a couple of their new applications for Android.",
+    "dateUploaded": 1194872976000,
+    "url": "",
+    "videoId": "PyxWnIalDcY"
   }
 ]
